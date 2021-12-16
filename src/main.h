@@ -18,7 +18,7 @@
 
 // Учетные данные для WiFi, MQTT сервера, OTA и прочее
 
-#include <account_termostat.h>
+#include <account_thermostat.h>
 #ifndef __ACCOUNTINFO__
 #define WIFI_SSID "ssid"
 #define WIFI_PASS "wifipassword"
